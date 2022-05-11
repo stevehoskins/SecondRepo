@@ -1,0 +1,14 @@
+git init:
+initialises git 
+git add .:
+
+git commit -m "a message":
+
+git push:
+
+git status:
+
+git log:
+
+etc ---- work from notes and complete this
+then update webpage reference to include all of this
